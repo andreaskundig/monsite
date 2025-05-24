@@ -1,0 +1,31 @@
+<style>
+a:link 		{  color: #000000; text-decoration: none}	
+a:visited 	{  color: #000000; text-decoration: none}	
+a:hover 	{  color: #993300; text-decoration: underline}
+font		{ font-family: "Arial"}
+
+</style>
+<table width="73%" border="0" cellspacing="0" cellpadding="0" div align="center">
+  <tr> 
+              
+    <td width="21%" bgcolor="#993300"><a href="../welcome.html"><img src="../Images/sortie.jpg" width="82" height="122" border="0" onMouseOver="MM_displayStatusMsg('Retour &agrave; la page d\'accueil');return document.MM_returnValue"></a></td>
+    <td width="79%" bgcolor="#993300"> 
+      <p><font color="ffcb84" face="Arial, Helvetica, sans-serif" size="2">Conception 
+        et r&eacute;alisation du site <a href="mailto:%20cazweifel@yahoo.fr">Carole 
+        Zweifel </a>, HEG/ID, 2003<br>
+        <script language="javascript">
+<!--
+date=document.lastModified
+jour=date.charAt(3)+date.charAt(4)
+mois=date.charAt(0)+date.charAt(1)
+annee=date.charAt(6)+date.charAt(7)+date.charAt(8)+date.charAt(9)
+document.write("Dernière mise à jour : "+jour+"/"+mois+"/"+annee)
+//-->
+</script>
+        </font><font color="ffcb84" size="2"><br>
+        <font face="Arial, Helvetica, sans-serif">Ce site est optimis&eacute; 
+        pour un &eacute;cran 1024 x 768 et entièrement <a href="../Site_web_definitif.zip">télédéchargeable</a></font></font><br>
+        <font face="Arial, Helvetica, sans-serif" size="2" color="#ffcb84">Tous 
+        les dessins : Andr&eacute;as K&uuml;ndig. Tous droits r&eacute;serv&eacute;s</font></p>
+    </td></tr>
+          </table>

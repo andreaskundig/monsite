@@ -1,0 +1,15 @@
+adresseEmail.png : adresse email en image pour éviter que mon adresse soit récupérée par des spammers.
+
+Documents sur la fabrique de fanzine
+DescriptionFdeF.txt : texte pour la page sur la fabrique de fanzines
+fdefPoitiers.jpg : A Poitiers
+fdefBlesV.jpg : A Bourg-lès-Valence: Pakito Bolino sérigraphie la couverture d'un fanzine.
+FanzineFabrikMoskau.txt: article sur la fdef à moscou. Un autre se trouve à http://www.swissinfo.org/sde/SwissinfoSpecial.html?siteSect=203&sid=4890302
+
+photoDeFamille.jpg : mettre un lien dans la biographie avec la phrase "Saurez-vous le reconnaître sur cette photo de famille"
+
+portraitLon.jpg : portrait de moi par Guillaume Long
+
+zidanetexte.jpg : scan du texte qui a été exposé à la villa Bernasconi, pour remplacer la vulgaire contrefaçon qui est maintenant sur le site.
+
+aModifier.txt: Choses à modifier sur le site

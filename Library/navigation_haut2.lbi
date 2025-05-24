@@ -1,0 +1,20 @@
+ <table width=100% border="0" cellpading="0" cellspacing="0" align=center>
+  <tr> 
+    <td height="36" width=17% bgcolor="#E8373C"> <div align="center"><font size="4"><a href="../pourquoi/pourquoi.html" onMouseOver="self.status='La webmaster explique avec sincérité le pourquoi et le comment de ce site';return true;" 
+onMouseOut="self.status=' ';return true;"><font face="Arial, Helvetica, sans-serif" color="#000000">Pourquoi 
+        ce site</font></a></font></div></td>
+    <td height="36" width=17% bgcolor="#ff6600"> <div align="center"><font size="4"><a href="../Bibliographie/bibliographie.html" onMouseOver="self.status='Petite liste du travail d'Andréas Kündig';return true;" 
+onMouseOut="self.status=' ';return true;"><font face="Arial, Helvetica, sans-serif" color="#000000">Bibliographie</font></a></font></div></td>
+    <td height="36" width=14% bgcolor="#ff9900"> <div align="center"><font size="4"><a href="../biographie/biographie.html" onMouseOver="self.status='Andréas Kundig sous toutes les coutures';return true;" 
+onMouseOut="self.status=' ';return true;"><font face="Arial, Helvetica, sans-serif" color="#000000">Biographie</font></a></font></div></td>
+    <td height="36" width=21% bgcolor="#FFCC00"> 
+      <div align="center"><font size="4"><a href="../fanzines/fanzines.html" onMouseOver="self.status='La fabrique de fanzines sous toutes les coutures';return true;" 
+onMouseOut="self.status=' ';return true;"><font face="Arial, Helvetica, sans-serif" color="#000000">La fabrique de fanzines</font></a></font></div></td>
+    <td height="36" width=10% bgcolor="#BC7D3F"> <div align="center"><font size="4"><a href="../projets/projets.html" onMouseOver="self.status='Andreas a plein d'idées et de projets, et vous ?';return true;" 
+onMouseOut="self.status=' ';return true;"><font face="Arial, Helvetica, sans-serif" color="#000000">Projets</font></a></font></div></td>
+    <td height="36" width=10% bgcolor="#999900"> <div align="center"><font size="4"><a href="../foutoir/foutoir.html" onMouseOver="self.status='Voila le reste du site, genre grenier en désordre';return true;" 
+onMouseOut="self.status=' ';return true;"><font face="Arial, Helvetica, sans-serif" color="#000000">Foutoir</font></a></font></div></td>
+    <td height="36" width=11% bgcolor="#CC9999"> <div align="center"><font size="4"><a href="../liens/liens.html" onMouseOver="self.status='Les liens : Quelques propositions du chef';return true;" 
+onMouseOut="self.status=' ';return true;"><font face="Arial, Helvetica, sans-serif" color="#000000">Barre-toi</font></a></font></div></td>
+  </tr>
+</table>
