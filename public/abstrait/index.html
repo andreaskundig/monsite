@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>histoire automatique</title>
+    <style type="text/css">
+        table { width: 115px; }
+        td { line-height: 0.8; padding-left: 10px; text-align: left; }
+        th { line-height: 1; text-align: left; }
+        #figureContainer { position: absolute; top: 3px; left: 140px; }
+        #debugContainer { position: absolute; top: 3px; left: 700px;}
+
+    </style>
+</head>
+<body>
+
+    <form action="#"> <!--  The action is now "#"  -->
+        <table>
+            <tr><th align="left">Figures</th>
+                <td><input name="nb" type="text" size="2" value="1"></td></tr>
+            <tr><th>Taille</th>
+                <td><input name="lg" type="text" size="2" value="20"></td></tr>
+            <tr><th colspan="2" >Carr&eacute;s par case</th></tr>
+            <tr><td>hauteur</td>
+                <td><input name="ix" type="text" size="2" value="5"></td></tr>
+            <tr><td>largeur</td>
+                <td><input name="iy" type="text" size="2" value="5"></td></tr>
+            <tr><th colspan="2" >Cases per page</th></tr>
+            <tr><td>hauteur</td>
+                <td><input name="px" type="text" size="2" value="2"></td></tr>
+            <tr><td>largeur</td>
+                <td><input name="py" type="text" size="2" value="2"></td></tr>
+            <tr><td colspan="2"><input type="submit" value="va-s-y"></td></tr>
+        </table>
+    </form>
+
+    <table>
+        <tr><th >Choix al&eacute;atoire</th></tr>
+        <tr  ><td ><a href="automatique.php">tout changer</a></td></tr>
+        <tr ><td >
+            <a href="automatique.php?nb=1&lg=20&ix=5&iy=5&px=2&py=2">tout garder</a>
+        </td></tr>
+        <tr ><td >
+            <a href="automatique.php?lg=20&ix=5&iy=5&px=2&py=2">figures</a>
+        </td></tr>
+        <tr ><td >
+            <a href="automatique.php?nb=1&ix=5&iy=5&px=2&py=2">taille</a>
+        </td></tr>
+        <tr ><td >
+            <a href="automatique.php?nb=1&lg=20&px=2&py=2">carr&eacute;s par case</a>
+        </td></tr>
+        <tr ><td >
+            <a href="automatique.php?nb=1&lg=20&ix=5&iy=5">cases par page</a>
+        </td></tr>
+        <tr ><td >
+            <a href="automatique.php?nb=1&lg=20&iy=5&py=2">hauteur</a>
+        </td></tr>
+        <tr ><td >
+            <a href="automatique.php?nb=1&lg=20&ix=5&px=2">largeur</a>
+        </td></tr>
+    </table>
+
+    <div id="figureContainer"></div>
+    <div id="debugContainer"></div>
+
+    <script type="module" src="automatique.js"></script>
+</body>
+</html>
